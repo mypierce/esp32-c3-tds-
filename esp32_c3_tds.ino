@@ -8,12 +8,12 @@
 #include <math.h>
 
 // ================= WiFi 设置 =================
-const char* ssid = "xiaomi";
-const char* password = "fe0gyua0";
+const char* ssid = "yours";
+const char* password = "yours";
 
 // ================= Telegram 设置 =================
-const char* botToken = "1825915974:AAHe1SJgDfR5Nlb4F-UzUpl4kHfaiBjMxUQ";
-const char* chatID = "315752234";
+const char* botToken = "yours";
+const char* chatID = "yours";
 
 // ================= 引脚定义 =================
 #define TDS_PIN 0
